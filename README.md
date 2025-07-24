@@ -15,7 +15,7 @@ Fully **Dockerized** for easy deployment on local or cloud environments.
 ---
 
 ## 📂 Project Structure
-
+```
 ├── public/                # Frontend files
 │   ├── index.html         # UI for webcam preview and button
 │   ├── script.js          # WebRTC capture logic
@@ -24,7 +24,7 @@ Fully **Dockerized** for easy deployment on local or cloud environments.
 ├── server.js              # Express backend server
 ├── Dockerfile             # Docker image definition
 └── package.json           # Project metadata & dependencies
-
+```
 
 
 ## 🔹 How It Works
